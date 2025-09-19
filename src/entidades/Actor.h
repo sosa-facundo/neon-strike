@@ -11,8 +11,8 @@ class Actor : public ObjetoFisico
     public:
 
     void Caminar();
-
-    int _vida;
-
+    
     private:
+    
+    int _vida;
 };

@@ -6,7 +6,7 @@ class Personaje : public Actor
 {
     public:
     
-    bool _poderActivado;
-
     private:
+    
+    bool _poderActivado;
 };

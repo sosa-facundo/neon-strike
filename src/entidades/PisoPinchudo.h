@@ -5,9 +5,8 @@
 class PisoPinchudo : public ObjetoFisico
 {
     public:
-        
-    bool _tieneVeneno;
-
+    
     private:
     
+    bool _tieneVeneno;
 };
